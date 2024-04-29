@@ -22,7 +22,7 @@ const Work = () => {
         {project.map((item) => (
           <div
             key={item.id}
-            className="flex flex-col gap-2 rounded-lg bg-slate-800 hover:scale-110 transition-all p-3"
+            className="flex flex-col gap-2 rounded-lg bg-slate-800 shadow-xl bg-opacity-50 hover:scale-110 transition-all p-3"
           >
             <h2 className="text-xl font-semibold border-b-2 border-[#54AFE7] mb-2">
               {item.name}
