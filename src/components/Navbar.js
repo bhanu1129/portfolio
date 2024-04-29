@@ -115,7 +115,7 @@ const Navbar = () => {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[0px] duration-300 bg-slate-500 px-4">
             <a
-              href=""
+              href="https://drive.google.com/file/d/1kC2QKkXhwu0hta0yjUKFda-cX6eT_aUR/view?usp=sharing"
               className="flex justify-between items-center w-full text-gray-300"
               target="_blank"
             >

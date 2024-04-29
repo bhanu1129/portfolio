@@ -65,7 +65,7 @@ const Hero = () => {
         </li>
         <li>
           <a
-            href=""
+            href="https://drive.google.com/file/d/1kC2QKkXhwu0hta0yjUKFda-cX6eT_aUR/view?usp=sharing"
             className="flex flex-col items-center justify-center gap-1 text-gray-300"
             target="_blank"
           >
