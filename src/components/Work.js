@@ -1,11 +1,5 @@
 import React from "react";
 import { project } from "../ProjectData";
-
-import work1 from "../assets/projects/work1.png";
-import work2 from "../assets/projects/work2.png";
-import work3 from "../assets/projects/work3.png";
-import work4 from "../assets/projects/work4.png";
-import work5 from "../assets/projects/work5.png";
 import { FaArrowRight, FaFileCode } from "react-icons/fa";
 
 const Work = () => {
